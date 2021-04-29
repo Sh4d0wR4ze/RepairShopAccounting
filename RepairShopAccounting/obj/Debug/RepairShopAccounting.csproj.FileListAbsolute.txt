@@ -1,0 +1,38 @@
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\bin\Debug\RepairShopAccounting.exe.config
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\bin\Debug\RepairShopAccounting.exe
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\bin\Debug\RepairShopAccounting.pdb
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.csprojAssemblyReference.cache
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\App.g.cs
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting_MarkupCompile.cache
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting_MarkupCompile.lref
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.g.resources
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.Properties.Resources.resources
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.exe
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.pdb
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\CreateOrder.g.cs
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\CreateOrder.baml
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\ViewOrders.g.cs
+C:\Users\Богдан\Desktop\заказы\учет работ ремонтной мастерской\RepairShopAccounting\RepairShopAccounting\obj\Debug\ViewOrders.baml
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\bin\Debug\RepairShopAccounting.exe.config
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\bin\Debug\RepairShopAccounting.exe
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\bin\Debug\RepairShopAccounting.pdb
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.csprojAssemblyReference.cache
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\CreateOrder.g.cs
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\MainWindow.g.cs
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\ViewOrders.g.cs
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\App.g.cs
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting_MarkupCompile.cache
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting_MarkupCompile.lref
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\CreateOrder.baml
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\MainWindow.baml
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\ViewOrders.baml
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.g.resources
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.Properties.Resources.resources
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.csproj.GenerateResource.cache
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.exe
+C:\Users\Amadei\Desktop\RepairShopAccounting\RepairShopAccounting\obj\Debug\RepairShopAccounting.pdb

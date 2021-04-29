@@ -1,0 +1,14 @@
+﻿<Window x:Class="RepairShopAccounting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RepairShopAccounting"
+        mc:Ignorable="d"
+        Title="Учет работ ремонтной мастерской" Height="450" Width="800"
+        ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="CreateOrderButton" Content="Создать заказ" HorizontalAlignment="Left" Margin="281,120,0,0" VerticalAlignment="Top" Width="228" Height="64" Click="CreateOrderButton_Click"/>
+        <Button x:Name="ViewOrdersButton" Content="Посмотреть список заказов" HorizontalAlignment="Left" Margin="281,234,0,0" VerticalAlignment="Top" Width="228" Height="68" Click="ViewOrdersButton_Click"/>
+    </Grid>
+</Window>
